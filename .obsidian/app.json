@@ -1,0 +1,16 @@
+{
+  "userIgnoreFilters": [
+    "node_modules.nosync/",
+    "script/",
+    "themes/",
+    "scaffolds/",
+    "node_modules/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "source/_posts",
+  "showLineNumber": false,
+  "attachmentFolderPath": "source/images",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}
