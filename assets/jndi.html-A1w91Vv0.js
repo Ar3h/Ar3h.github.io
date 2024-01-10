@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1f1a7b21","path":"/docs/tools/jndi.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"createdTime":1704908154000,"updatedTime":1704908154000,"contributors":[{"name":"Ar3h","email":"46180221+Ar3h@users.noreply.github.com","commits":1}]},"filePathRelative":"docs/tools/jndi.md"}');export{t as data};
