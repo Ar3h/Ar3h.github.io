@@ -1,0 +1,1 @@
+import{_ as n,r as c,o as a,c as s,d as t,a as r,w as _}from"./app-vMCaIZpZ.js";const l={__name:"MyButton",setup(u){const e=()=>{console.log(123)};return(p,m)=>{const o=c("el-button");return a(),s("div",null,[t(" MyButtom: "),r(o,{class:"dark",onClick:e,type:"primary"},{default:_(()=>[t("EL按钮样式")]),_:1})])}}},d=n(l,[["__file","MyButton.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,b as c}from"./app-vMCaIZpZ.js";const o={},_=c("p",null,"jndi",-1),s=[_];function r(a,l){return t(),n("div",null,s)}const i=e(o,[["render",r],["__file","jndi.html.vue"]]);export{i as default};

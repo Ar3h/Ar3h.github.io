@@ -1,0 +1,1 @@
+import{_ as n,r as t,o as a,c as l,a as c,w as s,d}from"./app-vMCaIZpZ.js";const r={name:"DownloadFile"};function _(o,i,p,u,f,m){const e=t("el-button");return a(),l("div",null,[c(e,{onClick:o.download},{default:s(()=>[d("download")]),_:1},8,["onClick"])])}const k=n(r,[["render",_],["__file","DownloadFile.vue"]]);export{k as default};
